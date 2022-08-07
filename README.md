@@ -1,3 +1,3 @@
-# e-commerce-website
+# agile-final-project
 
 READ ME
